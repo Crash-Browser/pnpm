@@ -6,7 +6,7 @@
 
 ![](https://i.imgur.com/qlW1eEG.png)
 
-Fast, disk space efficient package manager:
+Fast, disk space      efficient package manager:
 
 * **Fast.** Up to 2x faster than the alternatives (see [benchmark](#benchmark)).
 * **Efficient.** Files inside `node_modules` are linked from a single content-addressable storage.
